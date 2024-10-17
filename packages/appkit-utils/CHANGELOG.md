@@ -1,5 +1,17 @@
 # @reown/appkit-utils
 
+## 1.1.6
+
+### Patch Changes
+
+- [#3100](https://github.com/reown-com/appkit/pull/3100) [`201484e`](https://github.com/reown-com/appkit/commit/201484e0a49dd4a2465c55b83c90dfc3a631f9ee) Thanks [@magiziz](https://github.com/magiziz)! - Fixes an issue where the wagmi adapter was making excessive network calls.
+
+- Updated dependencies [[`201484e`](https://github.com/reown-com/appkit/commit/201484e0a49dd4a2465c55b83c90dfc3a631f9ee)]:
+  - @reown/appkit-polyfills@1.1.6
+  - @reown/appkit-common@1.1.6
+  - @reown/appkit-wallet@1.1.6
+  - @reown/appkit-core@1.1.6
+
 ## 1.1.5
 
 ### Patch Changes
